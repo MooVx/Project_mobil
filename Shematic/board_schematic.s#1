@@ -17833,9 +17833,8 @@ Source: www.kingbright.com</description>
 <label x="165.1" y="-20.32" size="1.778" layer="95"/>
 </segment>
 <segment>
-<wire x1="142.24" y1="-55.88" x2="162.56" y2="-55.88" width="0.1524" layer="91"/>
+<wire x1="139.7" y1="-55.88" x2="165.1" y2="-55.88" width="0.1524" layer="91"/>
 <label x="165.1" y="-55.88" size="1.778" layer="95"/>
-<pinref part="IC2" gate="G$1" pin="3-4EN"/>
 </segment>
 <segment>
 <pinref part="C2" gate="G$1" pin="1"/>
